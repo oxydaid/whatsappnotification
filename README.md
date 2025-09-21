@@ -16,7 +16,7 @@
 ## 📋 Prerequisites
 Before installing this extension, please ensure you have:
 1.  A running installation of **Paymenter**.
-2.  A **WhatsApp Gateway** account from **[https://wa.oxyda.id](https://wa.oxyda.id/)**. This extension requires an **API Key** and a **Sender Number (Device)** from that service.
+2.  A **WhatsApp Gateway** account from **[https://wa.oxyda.id](https://wa.oxyda.id/en/)**. This extension requires an **API Key** and a **Sender Number (Device)** from that service.
 
 ***
 
